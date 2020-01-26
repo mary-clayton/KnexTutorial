@@ -1,0 +1,24 @@
+{
+  "name": "KnexTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mary-clayton/KnexTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mary-clayton/KnexTutorial/issues"
+  },
+  "homepage": "https://github.com/mary-clayton/KnexTutorial#readme",
+  "dependencies": {
+    "knex": "^0.20.8",
+    "sqlite3": "^4.1.1"
+  }
+}
